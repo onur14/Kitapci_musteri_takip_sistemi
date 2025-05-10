@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Kitapci_bilgi_sistemi_projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05F6FEA-7E7B-4477-89B0-027F8366275F}|..\\PostgreSQL_proje\\Kitapci_proje\\Kitapci_proje.csproj|c:\\users\\dell\\source\\repos\\postgresql_proje\\kitapci_proje\\frmkitapcisistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmKitapciSistemi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\PostgreSQL_proje\\Kitapci_proje\\FrmKitapciSistemi.cs",
+              "RelativeDocumentMoniker": "..\\PostgreSQL_proje\\Kitapci_proje\\FrmKitapciSistemi.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\PostgreSQL_proje\\Kitapci_proje\\FrmKitapciSistemi.cs [Design]",
+              "RelativeToolTip": "..\\PostgreSQL_proje\\Kitapci_proje\\FrmKitapciSistemi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:27:48.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
